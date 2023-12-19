@@ -46,11 +46,12 @@ init repository in your directory folder
 git init
 git clone https://github.com/nrmtr/auth-jwt-token.git
 ```
+
+# How to Run
 run docker compose file
 ```bash
 docker compose up -d
 ```
-# How to Run
 download node.js and then run this command 
 ```bash
 npm start 
