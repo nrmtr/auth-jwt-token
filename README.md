@@ -1,6 +1,6 @@
 # Auth JWT Token
 
-In this project, I try to do api ( Application programming interface ) authentication and authorization with JWT Token and knowledges of MVC (Models-views-controller) is design pattern to develops programming languages used basic javascript node.js express.js and knowledge NoSQL database example in this project is mongodb run on docker-compose 
+In this project, I try to do api ( Application programming interface ) authentication and authorization with JWT Token and knowledges of MVC (Models-views-controller) is design pattern to develops programming languages used basic javascript node.js express.js and knowledge NoSQL database example in this project is mongodb run on docker-compose *frontend not done yet.
  
 # List of contents
 - [Structure Project](#structure-project)
